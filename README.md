@@ -1,5 +1,3 @@
-# FinPlan-Pro-Your-Financial-Strategy-Assistant
-
 # FinPlan-Pro-Your-Financial-Strategy-Assistant: A Personalized Financial Planning Assistant
 
 Welcome to the **FinPlan-Pro-Your-Financial-Strategy-Assistant** repository! This Telegram-based bot is designed to assist users in making sound financial decisions by providing personalized financial advice. The bot takes into account important financial factors such as monthly income, expenses, and personal financial goals, and then leverages Google Gemini API to generate actionable advice.
