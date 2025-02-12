@@ -75,3 +75,9 @@ The bot will now be running and ready to interact with users on Telegram.
 
 ## Searching for the Bot on Telegram:
 To interact with the Finance Advisor Bot, search for `Finance_Advisor_Bot` on Telegram and type `/start` to begin the conversation. The bot will guide you step by step to create your personalized financial plan.
+
+![Screenshot 2025-02-12 122711](https://github.com/user-attachments/assets/2e6273c6-52af-49be-8a92-17441ba79e32)
+![Screenshot 2025-02-12 122725](https://github.com/user-attachments/assets/0ae374c0-b2c8-47c0-afc2-6cb316fca1cf)
+
+![Screenshot 2025-02-12 122751](https://github.com/user-attachments/assets/6a24d03c-bd6b-4727-b228-0c531129df79)
+
