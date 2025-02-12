@@ -1,8 +1,0 @@
-# Ignore Python bytecode files
-*.pyc
-*.pyo
-__pycache__/
-
-
-# Ignore environment files containing sensitive data
-.env
